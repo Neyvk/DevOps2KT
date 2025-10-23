@@ -1,20 +1,31 @@
 using System;
+using System.Diagnostics;
 using System.Threading;
 
-class Timer
+namespace TimerApp
 {
-    static void Main()
+    static class Timer
     {
-        Console.WriteLine("Timer started.");
-        Console.WriteLine("Ctrl + C to stop.");
-
-        var startTime = DateTime.Now;
-
-        while (true)
+        static void Main()
         {
-            var nowTime = DateTime.Now - startTime;
-            Console.Write($"\rtime: {nowTime:hh\\:mm\\:ss}");
-            Thread.Sleep(1000);
+            Console.WriteLine("Timer started.");
+            Console.WriteLine("Press 'q' to quit.");
+
+            var stopwatch = new Stopwatch();
+            stopwatch.Start();
+
+            while (true)
+            {
+                if (Console.KeyAvailable && Console.ReadKey(true).Key == ConsoleKey.Q)
+                {
+                    Console.WriteLine("\nTimer stopped.");
+                    break;
+                }
+
+                var nowTime = stopwatch.Elapsed;
+                Console.Write($"\rtime: {nowTime:hh\\:mm\\:ss}");
+                Thread.Sleep(1000);
+            }
         }
     }
 }
