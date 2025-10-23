@@ -1,0 +1,14 @@
+C:\Users\neyas\OneDrive\Рабочий стол\Timer\TimerApp\bin\Debug\net9.0\TimerApp.exe
+C:\Users\neyas\OneDrive\Рабочий стол\Timer\TimerApp\bin\Debug\net9.0\TimerApp.deps.json
+C:\Users\neyas\OneDrive\Рабочий стол\Timer\TimerApp\bin\Debug\net9.0\TimerApp.runtimeconfig.json
+C:\Users\neyas\OneDrive\Рабочий стол\Timer\TimerApp\bin\Debug\net9.0\TimerApp.dll
+C:\Users\neyas\OneDrive\Рабочий стол\Timer\TimerApp\bin\Debug\net9.0\TimerApp.pdb
+C:\Users\neyas\OneDrive\Рабочий стол\Timer\TimerApp\obj\Debug\net9.0\TimerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neyas\OneDrive\Рабочий стол\Timer\TimerApp\obj\Debug\net9.0\TimerApp.AssemblyInfoInputs.cache
+C:\Users\neyas\OneDrive\Рабочий стол\Timer\TimerApp\obj\Debug\net9.0\TimerApp.AssemblyInfo.cs
+C:\Users\neyas\OneDrive\Рабочий стол\Timer\TimerApp\obj\Debug\net9.0\TimerApp.csproj.CoreCompileInputs.cache
+C:\Users\neyas\OneDrive\Рабочий стол\Timer\TimerApp\obj\Debug\net9.0\TimerApp.dll
+C:\Users\neyas\OneDrive\Рабочий стол\Timer\TimerApp\obj\Debug\net9.0\refint\TimerApp.dll
+C:\Users\neyas\OneDrive\Рабочий стол\Timer\TimerApp\obj\Debug\net9.0\TimerApp.pdb
+C:\Users\neyas\OneDrive\Рабочий стол\Timer\TimerApp\obj\Debug\net9.0\TimerApp.genruntimeconfig.cache
+C:\Users\neyas\OneDrive\Рабочий стол\Timer\TimerApp\obj\Debug\net9.0\ref\TimerApp.dll
