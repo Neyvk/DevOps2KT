@@ -16,11 +16,6 @@ namespace TimerApp
 
             while (true)
             {
-                if (Console.KeyAvailable && Console.ReadKey(true).Key == ConsoleKey.Q)
-                {
-                    Console.WriteLine("\nTimer stopped.");
-                    break;
-                }
 
                 var nowTime = stopwatch.Elapsed;
                 Console.Write($"\rtime: {nowTime:hh\\:mm\\:ss}");
